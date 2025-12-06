@@ -89,13 +89,9 @@ int main(int argc, char * argv[])
             v.viewer.append_mesh();
             int index = v.viewer.data_list.size() - 1;
 
-            // v.viewer.selected_data_index = index;
-
-            // v.set_mesh(V_sprinkles[i], F_sprinkle, UV_sprinkle, UF_sprinkle, NV_sprinkle, NF_sprinkle);
             v.viewer.data_list[index].set_mesh(V_sprinkles[i], F_sprinkle);
-            // v.viewer.data_list[index].set_uv(UV_sprinkle, UF_sprinkle);
-            // v.viewer.data_list[index].set_normals(NV_sprinkle);
             
+            // Get rid of grid
             v.viewer.data().show_lines = false;
             v.viewer.data().show_overlay = false;
             v.viewer.data().line_width = 0.0;

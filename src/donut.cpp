@@ -67,7 +67,7 @@ void donut(
       double theta = 2 * pi * u;
 
       // different calculation for x, y, z of donut
-      double x = (R + r * cos(phi))* cos(theta);
+      double x = (R + r * cos(phi)) * cos(theta);
       double y = r * sin(phi);
       double z = (R + r * cos(phi)) * sin(theta);
 
