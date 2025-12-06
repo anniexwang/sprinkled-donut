@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/anniewang/sprinkled-donut/build-release/cmake_install.cmake",
+		"/Users/anniewang/sprinkled-donut/build-release/_deps/libigl-build/cmake_install.cmake",
+		"/Users/anniewang/sprinkled-donut/build-release/_deps/glad-build/cmake_install.cmake",
+		"/Users/anniewang/sprinkled-donut/build-release/_deps/glfw-build/cmake_install.cmake",
+		"/Users/anniewang/sprinkled-donut/build-release/_deps/glfw-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

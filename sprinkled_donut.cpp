@@ -1,6 +1,5 @@
 #include "donut.h"
 #include "sphere.h"
-#include "cylinder.h"
 #include "write_obj.h"
 #include "QuadViewer.h"
 #include "set_texture_from_png.h"

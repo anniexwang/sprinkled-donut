@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/anniewang/sprinkled-donut/build-release/_deps/glfw-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
