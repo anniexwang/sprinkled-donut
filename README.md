@@ -2,7 +2,7 @@
 
 ## Title 
 
-**Name of Piece:** [Sprinkled Donut](piece.mov)
+**Name of Piece:** [Sprinkled Donut](/images/piece.mov)
 
 ## Personal Information
 
@@ -49,4 +49,4 @@ make
 /data/glazed_donut.png - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnXDGy2nwBLL2Is7rIqVDQkR6chGN1zNbDkg&s
 
 ## Compilation Verification
-[Compilation Verification](Compilation_Validation.mov)
+[Compilation Verification](/images/Compilation_Validation.mov)
